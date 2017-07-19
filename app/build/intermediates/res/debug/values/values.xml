@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/admin/OneDrive/Course/android/code/ACD_AN_Session_14_Code/SqliteDatabaseAutoComplete1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ITEM_SEARCH">Search Products Here</string>
+    <string name="app_name">AutoCompleteProducts</string>
+</resources>
